@@ -1,6 +1,7 @@
 # Anirudh Mehra
 
-Backend and platform engineer focused on reliability-critical systems, operational automation, and agentic engineering. 
+Backend and platform engineer focused on reliability-critical systems, operational automation, and agentic engineering.
+
 Read my articles on [anirudhmehra.dev](https://www.anirudhmehra.dev/posts/)
 
 ## Focus
