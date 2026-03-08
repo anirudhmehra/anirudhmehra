@@ -4,6 +4,10 @@ Senior backend/platform engineer focused on OCI, database reliability, backup/re
 
 Most of my production work has been in proprietary Oracle cloud infrastructure, so that code is not public here. This profile is where I share the kinds of engineering problems I enjoy, the public projects I build, and the ideas I'm exploring.
 
+## Links
+- Website: [anirudhmehra.dev](https://www.anirudhmehra.dev/)
+- LinkedIn: [linkedin.com/in/mehra-anirudh](https://www.linkedin.com/in/mehra-anirudh/)
+
 ## What I work on
 - distributed systems and platform engineering
 - database reliability, backup, recovery, and high availability
@@ -32,7 +36,12 @@ Right now I'm especially interested in:
 - operational tooling and debugging workflows
 - AI-assisted developer tools and agentic engineering
 
-## Stats
-![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anirudhmehra&show_icons=true&hide_border=true&rank_icon=github)
+## Featured projects
+- [anirudhmehra.dev](https://github.com/anirudhmehra/anirudhmehra.dev) - Personal website and blog built with Astro.
+- [ai-codereviewer](https://github.com/anirudhmehra/ai-codereviewer) - Public AI-assisted engineering project focused on developer workflows.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhmehra&layout=compact&hide_border=true)
+## Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=anirudhmehra&show_icons=true&hide_border=true&rank_icon=github" alt="Anirudh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhmehra&layout=compact&hide_border=true" alt="Top languages" />
+</p>
