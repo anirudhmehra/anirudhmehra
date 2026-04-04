@@ -1,16 +1,26 @@
 # Anirudh Mehra
 
-Backend and platform engineer focused on reliability-critical systems, operational automation, and agentic engineering.
+Backend/platform engineer focused on reliability-critical systems, distributed databases, and AI-assisted workflows.
+
+[anirudhmehra.dev](https://anirudhmehra.dev)
 
 Read my articles on [anirudhmehra.dev](https://www.anirudhmehra.dev/posts/)
 
 ## Focus
+
 - distributed systems
 - database reliability, backup, recovery, and high availability
 - workflow orchestration and infrastructure operations
-- AI-assisted engineering and natural-language operational workflows
+- AI-assisted engineering and operational workflows
+
+## Currently building
+
+- `cf-workers-ai-code-review` - GitHub Action for PR review with Cloudflare Workers AI
+- `sarvam-livekit-voice-agent` - minimal voice agent with Sarvam + LiveKit
+- `anirudhmehra.dev` - personal site and writing
 
 ## Tech
+
 - Java, Python, TypeScript, JavaScript
 - OCI, Oracle Database, Linux, Oracle Data Guard
 - Autonomous Recovery Service, OCI Vault, Object Storage
