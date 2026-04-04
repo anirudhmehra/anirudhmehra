@@ -1,0 +1,27 @@
+name: Update Blog Posts
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog-posts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README from RSS feed
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://anirudhmehra.dev/rss.xml"
+          max_post_count: 5
+          readme_path: README.md
+          comment_tag_name: BLOG-POST-LIST
+          template: "- **[$title]($url)** - $description"
+          commit_message: "Update latest blog posts"
