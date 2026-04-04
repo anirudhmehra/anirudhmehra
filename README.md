@@ -22,4 +22,6 @@
 
 ## Latest Posts
 
-<!-- BLOG-POST-LIST:START -->- **[Dev at the speed of thought](https://www.anirudhmehra.dev/posts/dev-at-the-speed-of-thought/)** - Using coding agents in 2026<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- **[Dev at the speed of thought](https://www.anirudhmehra.dev/posts/dev-at-the-speed-of-thought/)** - Using coding agents in 2026
+<!-- BLOG-POST-LIST:END -->
