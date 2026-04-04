@@ -14,11 +14,11 @@
 
 ## What I Work On
 
-- I spend most of my time on distributed systems and database reliability, especially where failure paths matter more than happy paths.
-- I care a lot about backup, recovery, and high-availability workflows being predictable, boring, and easy to operate under pressure.
-- I like building tooling and operational workflows that reduce manual work, ambiguity, and cognitive overhead for engineers.
-- More recently, I have been experimenting with AI-assisted developer tooling that is practical in real engineering environments, not just demos.
-- Outside that, I enjoy writing clear web products, technical notes, and longer posts on engineering, cloud, and tooling.
+- I spend most of my time on distributed systems and database reliability, especially where failure paths matter most.
+- I care about backup, recovery, and high-availability workflows being predictable, boring, and easy to run under pressure.
+- I like building tooling and operational paths that reduce manual work and cognitive overhead.
+- More recently, I have been experimenting with AI-assisted developer tooling that is useful in real engineering environments.
+- Outside that, I enjoy writing clear web products, technical notes, and longer posts on engineering and cloud.
 
 ## Latest Posts
 
@@ -28,4 +28,4 @@
 
 ## Connect
 
-[![Website](https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://anirudhmehra.dev) <a href="https://www.linkedin.com/in/mehra-anirudh/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="LinkedIn" width="16" height="16" /></a> [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anirudhmehra) [![Resume](https://img.shields.io/badge/Resume-1F2937?style=flat-square&logo=readthedocs&logoColor=white)](https://anirudhmehra.dev/resume/anirudh-mehra-resume.pdf)
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/googlechrome.svg" alt="Website" width="16" height="16" /> <a href="https://anirudhmehra.dev">Website</a> · <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="LinkedIn" width="16" height="16" /> <a href="https://www.linkedin.com/in/mehra-anirudh/">LinkedIn</a> · <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" alt="GitHub" width="16" height="16" /> <a href="https://github.com/anirudhmehra">GitHub</a> · 📄 <a href="https://anirudhmehra.dev/resume/anirudh-mehra-resume.pdf">Resume</a>
