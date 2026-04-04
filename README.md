@@ -25,12 +25,3 @@
 <!-- BLOG-POST-LIST:START -->
 - **[Dev at the speed of thought](https://www.anirudhmehra.dev/posts/dev-at-the-speed-of-thought/)** - Using coding agents in 2026
 <!-- BLOG-POST-LIST:END -->
-
-## Connect
-
-<div align="left">
-  <a href="https://anirudhmehra.dev"><img src="./.github/assets/chrome.svg" alt="Website" width="16" height="16" /></a>&nbsp;<a href="https://anirudhmehra.dev">Website</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mehra-anirudh/"><img src="./.github/assets/linkedin.svg" alt="LinkedIn" width="16" height="16" /></a>&nbsp;<a href="https://www.linkedin.com/in/mehra-anirudh/">LinkedIn</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/anirudhmehra"><img src="./.github/assets/github.svg" alt="GitHub" width="16" height="16" /></a>&nbsp;<a href="https://github.com/anirudhmehra">GitHub</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://anirudhmehra.dev/resume/anirudh-mehra-resume.pdf"><img src="./.github/assets/resume.svg" alt="Resume" width="16" height="16" /></a>&nbsp;<a href="https://anirudhmehra.dev/resume/anirudh-mehra-resume.pdf">Resume</a>
-</div>
