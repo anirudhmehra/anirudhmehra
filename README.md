@@ -28,4 +28,9 @@
 
 ## Connect
 
-<img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Website" width="16" height="16" /> <a href="https://anirudhmehra.dev">Website</a>&nbsp;&nbsp;|&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="16" height="16" /> <a href="https://www.linkedin.com/in/mehra-anirudh/">LinkedIn</a>&nbsp;&nbsp;|&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" /> <a href="https://github.com/anirudhmehra">GitHub</a>&nbsp;&nbsp;|&nbsp;&nbsp;<span style="color:#6B7280;">📄</span> <a href="https://anirudhmehra.dev/resume/anirudh-mehra-resume.pdf">Resume</a>
+<div align="left">
+  <a href="https://anirudhmehra.dev"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Website" width="16" height="16" /></a>&nbsp;<a href="https://anirudhmehra.dev">Website</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mehra-anirudh/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="16" height="16" /></a>&nbsp;<a href="https://www.linkedin.com/in/mehra-anirudh/">LinkedIn</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/anirudhmehra"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" /></a>&nbsp;<a href="https://github.com/anirudhmehra">GitHub</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://anirudhmehra.dev/resume/anirudh-mehra-resume.pdf"><img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/outline/file-text.svg" alt="Resume" width="16" height="16" /></a>&nbsp;<a href="https://anirudhmehra.dev/resume/anirudh-mehra-resume.pdf">Resume</a>
+</div>
