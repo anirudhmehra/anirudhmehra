@@ -8,7 +8,7 @@
 
 ## Current Projects
 
-- ⚡ **[pi-openai-service-tier](https://github.com/anirudhmehra/pi-openai-service-tier)** - a Pi extension I built to make OpenAI fast mode / service-tier usage cost-correct by wiring the tier through Pi's internal provider path instead of only patching the outgoing payload.
+- ⚡ **[pi-openai-service-tier](https://github.com/anirudhmehra/pi-openai-service-tier)** - a small Pi extension I built to support OpenAI fast mode.
 - 🔎 **[cf-workers-ai-code-review](https://github.com/anirudhmehra/cf-workers-ai-code-review)** - I built this to make PR review more useful: it reads diffs with Cloudflare Workers AI and leaves comments where they are actually worth attention.
 - 🎧 **[sarvam-livekit-voice-agent](https://github.com/anirudhmehra/sarvam-livekit-voice-agent)** - a small voice-agent runtime I put together with LiveKit, Sarvam STT/TTS, and OpenAI for phone-call style interactions.
 - 🌐 **[anirudhmehra.dev](https://github.com/anirudhmehra/anirudhmehra.dev)** - my personal site where I write essays, technical notes, and project breakdowns, built with Astro and deployed on Cloudflare Workers.
